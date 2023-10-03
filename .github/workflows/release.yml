@@ -17,4 +17,3 @@ jobs:
         with:
           release-type: node
           package-name: architecture-demo
-          token: ${{ secrets.GITHUB_TOKEN }}
