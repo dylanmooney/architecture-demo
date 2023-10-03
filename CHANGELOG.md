@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/dylanmooney/architecture-demo/compare/v1.3.0...v1.4.0) (2023-10-03)
+
+
+### Features
+
+* **feature-a:** add feature a ([a9f68da](https://github.com/dylanmooney/architecture-demo/commit/a9f68dab896e61f73973247d2529e770042ecf78))
+
+
+### Bug Fixes
+
+* **feature-a:** a bug fix for feature-a ([403952c](https://github.com/dylanmooney/architecture-demo/commit/403952ca7e95b7db07c28a38d8d37eded32155a4))
+
 ## [1.3.0](https://github.com/dylanmooney/architecture-demo/compare/v1.2.0...v1.3.0) (2023-10-03)
 
 
