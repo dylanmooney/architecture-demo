@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dylanmooney/architecture-demo/compare/v1.0.0...v1.1.0) (2023-10-03)
+
+
+### Features
+
+* **about:** add about page ([ace685d](https://github.com/dylanmooney/architecture-demo/commit/ace685d451251567d79e2280631a2bf0b4877b49))
+
 ## 1.0.0 (2023-10-03)
 
 
