@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/dylanmooney/architecture-demo/compare/v1.1.0...v1.2.0) (2023-10-03)
+
+
+### Features
+
+* **contact:** add contact page ([fec1840](https://github.com/dylanmooney/architecture-demo/commit/fec184068b12cfa097a4d1ec1a4a68d3f1b77461))
+
+
+### Bug Fixes
+
+* **about:** update title ([fec1840](https://github.com/dylanmooney/architecture-demo/commit/fec184068b12cfa097a4d1ec1a4a68d3f1b77461))
+
 ## [1.1.0](https://github.com/dylanmooney/architecture-demo/compare/v1.0.0...v1.1.0) (2023-10-03)
 
 
