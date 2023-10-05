@@ -1,3 +1,3 @@
 export default function Contact() {
-  return <main>Foram</main>;
+  return <main>Forum page</main>;
 }
